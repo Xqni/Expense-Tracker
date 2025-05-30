@@ -56,7 +56,7 @@ def list(args):
 
     # '-' (left align)
     # '12' (how much space to be given to this part of the output)
-    # 's' (we are printing an integer)
+    # 's' (printing a string)
     print('\n%-5s%-12s%-20s%-12s' % ('ID', 'Date', 'Description', 'Amount'))
     for expense in expenses:
         print('-' * 45)
