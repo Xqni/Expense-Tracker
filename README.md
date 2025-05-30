@@ -27,6 +27,12 @@ usage: delete --id 1 | delete -i 1
 ## Usage/Examples 🤔
 
 ```python
+python main.py --help
+# displays help about program
+
+python main.py add --help
+# displays help for 'add' command, replace 'add' with other valid commands to view help
+
 python main.py add -d Dinner -a 20
 # Expense added successfully (ID 1)
 
