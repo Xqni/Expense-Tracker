@@ -4,7 +4,7 @@
 A simple command line program in Python programming language to track your expenses. Beginner level project.
 
 ## Hello 👋
-Thank you for checking my project, if you find any mistakes please let me and I will try to imporve it.
+Thank you for checking my project, if you find any mistakes please let me know and I will try to imporve it.
 
 ## Commands
 ```python
